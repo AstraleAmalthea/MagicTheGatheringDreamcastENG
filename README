@@ -6,7 +6,7 @@ Here is a completed English translation for the Magic the Gathering dreamcast ga
 
 Some issues I had that I couldn't resolve. 
 
-There was really hardcoded text string limits. Card names and prompts needed to be shortened. I tried to make each one readable, but I was editing a lot of them without context. There are a lot of possible board states, so if you see something that doesn't make sense at all, or even something that is entirely wrong, please let me know. 
+There was really hardcoded text string limits. Certain text boxes have set limits. I tried to make each one readable, but I was editing a lot of them without context. There are a lot of possible board states, so if you see something that doesn't make sense at all, or even something that is entirely wrong, please let me know. 
 
 There should only be one place left untranslated, that being the tutorial videos.
 I did consider hardcoding subs on the videos as there are tools to do that to .SFD video files, but I ultimately decided nobody would actually bother watching the tutorial videos to learn how to play, so skipped it. That, and my Japanese listening skills are not really up to it. If someone would be interested in giving me a transcription of the videos (accessed on the About Magic main menu option) then I could probably update the patch to include them. 
