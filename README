@@ -1,0 +1,31 @@
+Use the Universal Dreamcast Patcher to patch this game 
+The GDI image is Magic - The Gathering v1.011 (2001)(Sega)(JP)[!].gdi
+
+
+Here is a completed English translation for the Magic the Gathering
+
+Some issues I had that I couldn't resolve. 
+
+There was really hardcoded text string limits. Card names and prompts needed to be shortened. I tried to make each one readable, but I was editing a lot of them without context. There are a lot of possible board states, so if you see something that doesn't make sense at all, or even something that is entirely wrong, please let me know. 
+
+There should only be one place left untranslated, that being the tutorial videos.
+I did consider hardcoding subs on the videos as there are tools to do that to .SFD video files, but I ultimately decided nobody would actually bother watching the tutorial videos to learn how to play, so skipped it. That, and my Japanese listening skills are not really up to it. If someone would be interested in giving me a transcription of the videos (accessed on the About Magic main menu option) then I could probably update the patch to include them. 
+
+
+If you see any other random pieces of Japanese text, please let me know! Screenshots prefered, easier to figure out context.
+If the game crashes or freezes, please let me know exactly what the board state was/what card you were trying to play. Basically every card had it's effects hardcoded instead of using any kind of template (for some reason), so sometimes just one card could crash the game if I broke it with the patch.
+
+You may notice the character's English voice acting does not match the subtitles. I went with translating the Japanese subtitle text (which was slightly different from the spoken dialogue). But I am open to changing this if people find it too weird.
+
+The game is really slow paced, so I recommend turning off the battle visual effects in the options menu. 
+
+If anyone has a physical copy of this game and would send me a scan/photos from the manual, I'll translate that too!
+
+
+Some disclosures:
+I did use AI to create the tools for this project. I used Claude to write some python scripts to extract the text and format it into a CSV I could edit.
+
+I did NOT use AI to translate any text! This was all translated by a normal dumb human.
+
+I either looked up content on Scryfall, MTG wikis, Jisho.org, or just from my own game/Japanese language knowledge. 
+All texture edits were done in PaintNet with the PVR plugin. 
