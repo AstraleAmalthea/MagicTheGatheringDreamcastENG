@@ -1,17 +1,13 @@
 Use the Universal Dreamcast Patcher to patch this game 
 The GDI image is Magic - The Gathering v1.011 (2001)(Sega)(JP)[!].gdi
 
-Current Version: 1.1
+Current Version: 1.2
 
 Here is a completed English translation for the Magic the Gathering dreamcast game
 
 Some issues I had that I couldn't resolve. 
 
 There was really hardcoded text string limits. Certain text boxes have set limits. I tried to make each one readable, but I was editing a lot of them without context. There are a lot of possible board states, so if you see something that doesn't make sense at all, or even something that is entirely wrong, please let me know. 
-
-There should only be one place left untranslated, that being the tutorial videos.
-I did consider hardcoding subs on the videos as there are tools to do that to .SFD video files, but I ultimately decided nobody would actually bother watching the tutorial videos to learn how to play, so skipped it. That, and my Japanese listening skills are not really up to it. If someone would be interested in giving me a transcription of the videos (accessed on the About Magic main menu option) then I could probably update the patch to include them. 
-
 
 If you see any other random pieces of Japanese text, please let me know! Screenshots prefered, easier to figure out context.
 If the game crashes or freezes, please let me know exactly what the board state was/what card you were trying to play. Basically every card had it's effects hardcoded instead of using any kind of template (for some reason), so sometimes just one card could crash the game if I broke it with the patch.
